@@ -1,2 +1,2 @@
 # demoweb
-Web tutorial using CSS HTML Javascript
+Web examples using CSS HTML Javascript from tutorial
